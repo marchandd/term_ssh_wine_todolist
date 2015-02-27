@@ -22,7 +22,7 @@ Run scripts for Windows Portable-apps samples to install and use like explain in
 
 | State | Portable-app  
 | --- | ---  
-| Silver | [ToDoList](https://github.com/marchandd/term_ssh_wine_portableapps/blob/master/docs/todolist.md "ToDoList_Details") ZIP-app  
+| Silver | [ToDoList](https://github.com/marchandd/term_ssh_wine_todolist/blob/master/docs/todolist.md "ToDoList_Details") ZIP-app  
 
 ### Image size
 
